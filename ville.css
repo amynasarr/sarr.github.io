@@ -196,7 +196,7 @@ body{
         content: "";
         height: 30px;
         width: 50px;
-        background-image: url("./images/logo_localisation.jpg");
+        background-image: url("images/logo_localisation.jpg");
         display: inline;
         z-index: 10;
        
@@ -280,7 +280,7 @@ body{
         content: "";
         height: 25px;
         width: 25px;
-        background-image: url("./images/enumeration.png");
+        background-image: url("images/enumeration.png");
         background-size: 100% 100%;
         display: block;
         position: absolute;
@@ -752,7 +752,7 @@ body{
         content: "";
         height: 50px;
         width: 50px;
-        background-image: url("./images/logo_localisation.jpg");
+        background-image: url("images/logo_localisation.jpg");
         display: inline;
         z-index: 10;
        
@@ -833,7 +833,7 @@ body{
         content: "";
         height: 25px;
         width: 25px;
-        background-image: url("./images/enumeration.png");
+        background-image: url("images/enumeration.png");
         background-size: 100% 100%;
         display: block;
         position: absolute;
@@ -1295,7 +1295,7 @@ body{
         content: "";
         height: 50px;
         width: 50px;
-        background-image: url("./images/logo_localisation.jpg");
+        background-image: url("images/logo_localisation.jpg");
         display: inline;
         z-index: 10;
        
@@ -1376,7 +1376,7 @@ body{
         content: "";
         height: 25px;
         width: 25px;
-        background-image: url("./images/enumeration.png");
+        background-image: url("images/enumeration.png");
         background-size: 100% 100%;
         display: block;
         position: absolute;

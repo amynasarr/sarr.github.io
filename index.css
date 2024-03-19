@@ -152,12 +152,12 @@ body{
 
 
     @keyframes fondu{
-        0%{background-image: url("./images/venise_home.jpg");}
-        20%{background-image: url("./images/amsterdam_home.jpg");}
-        40%{background-image: url("./images/saint_louis_home.jpg");}
-        60%{background-image: url("./images/abu_dhabi_home.jpg");}
-        80%{background-image: url("./images/caire_home.jpg");}
-        100%{background-image: url("./images/venise_home.jpg");}
+        0%{background-image: url("images/venise_home.jpg");}
+        20%{background-image: url("images/amsterdam_home.jpg");}
+        40%{background-image: url("images/saint_louis_home.jpg");}
+        60%{background-image: url("images/abu_dhabi_home.jpg");}
+        80%{background-image: url("images/caire_home.jpg");}
+        100%{background-image: url("images/venise_home.jpg");}
 
 
 
@@ -579,12 +579,12 @@ body{
 
 
     @keyframes fondu{
-        0%{background-image: url("./images/venise_home.jpg");}
-        20%{background-image: url("./images/amsterdam_home.jpg");}
-        40%{background-image: url("./images/saint_louis_home.jpg");}
-        60%{background-image: url("./images/abu_dhabi_home.jpg");}
-        80%{background-image: url("./images/caire_home.jpg");}
-        100%{background-image: url("./images/venise_home.jpg");}
+        0%{background-image: url("images/venise_home.jpg");}
+        20%{background-image: url("images/amsterdam_home.jpg");}
+        40%{background-image: url("images/saint_louis_home.jpg");}
+        60%{background-image: url("images/abu_dhabi_home.jpg");}
+        80%{background-image: url("images/caire_home.jpg");}
+        100%{background-image: url("images/venise_home.jpg");}
 
 
 
@@ -1009,12 +1009,12 @@ body{
 
 
     @keyframes fondu{
-        0%{background-image: url("./images/venise_home.jpg");}
-        20%{background-image: url("./images/amsterdam_home.jpg");}
-        40%{background-image: url("./images/saint_louis_home.jpg");}
-        60%{background-image: url("./images/abu_dhabi_home.jpg");}
-        80%{background-image: url("./images/caire_home.jpg");}
-        100%{background-image: url("./images/venise_home.jpg");}
+        0%{background-image: url("images/venise_home.jpg");}
+        20%{background-image: url("images/amsterdam_home.jpg");}
+        40%{background-image: url("images/saint_louis_home.jpg");}
+        60%{background-image: url("images/abu_dhabi_home.jpg");}
+        80%{background-image: url("images/caire_home.jpg");}
+        100%{background-image: url("images/venise_home.jpg");}
 
 
 
